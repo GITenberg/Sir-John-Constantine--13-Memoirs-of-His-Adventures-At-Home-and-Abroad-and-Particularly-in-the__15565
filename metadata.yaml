@@ -1,0 +1,33 @@
+_repo: Sir-John-Constantine--13-Memoirs-of-His-Adventures-At-Home-and-Abroad-and-Particularly-in-the__15565
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quiller-Couch, Arthur
+    aliases:
+    - Quiller-Couch, Sir Arthur Thomas
+    - Q
+    - Quiller-Couch, A. T. (Arthur Thomas)
+    - Quiller-Couch, Arthur Thomas
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '3579'
+    url: http://www.gutenberg.org/2009/agents/3579
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
+description: ''
+gutenberg_issued: '2005-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15565'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Corsica (France) -- Fiction'
+title: "Sir John Constantine\r\nMemoirs of His Adventures At Home and Abroad and Particularly\
+  \ in the Island of Corsica: Beginning with the Year 1756"
+url: http://www.gutenberg.org/ebooks/15565
